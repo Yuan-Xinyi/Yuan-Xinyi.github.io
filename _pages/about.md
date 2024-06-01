@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
 🙌Hi! I'm Xinyi Yuan, currently pursuing my MPhil at [Intelligent Transportation (INTR) Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/) in the [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou campus)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/). I earned my Bachelor's in [Robotics Engineering](https://mee.sustech.edu.cn/) from [Southern University of Science and Technology](https://www.sustech.edu.cn/), exploring human-robot interaction strategies for upper-limb rehabilitation in [Brain-Robot Rehabilitation Technology Lab](https://zhangmmlab.com/). Currently, I'm remotely engaged in fascinating legged robot research at the [Shang Hai AI laboratory](https://www.shlab.org.cn/) supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/).
 
 Besides engineering, I believe that finance is another perspective for understanding what is happening in the world. So, I am working hard to become a [Chartered Financial Analyst (CFA)](https://en.wikipedia.org/wiki/Chartered_Financial_Analyst) charterholder (Progress: level 2 candidate this year). I also enjoy exploring different cities and trying out the food.
@@ -23,12 +24,14 @@ Besides engineering, I believe that finance is another perspective for understan
 I'm pretty interested in robotics, but still new to it, and you're more than welcome to write me an email to connect (or make friends)! Let's explore the exciting world together! 🌌
 
 <span class='anchor' id='news'></span>
+
 # ✨ News
 - *2024.06*: &nbsp;📅 My MPhil graduate examination will be arranged on 2nd, July!
 - *2024.04*: &nbsp;🎉 Our paper is accepted by the IEEE Transactions on Intelligent Vehicles.
 - *2024.03*: &nbsp;🎉 Our paper is accepted by the 35th IEEE Intelligent Vehicles Symposiumk (IV 2024).
 
 <span class='anchor' id='pub'></span>
+
 # 📝Publications 
 \* Co-first author, ✉️ Corresponding author.
 - [**AggFollower: Aggressiveness Informed Car-Following Modeling.**](https://ieeexplore.ieee.org/abstract/document/10490250)<br />
@@ -39,6 +42,7 @@ Meixin Zhu✉️, Di Chen, **<u>Xinyi Yuan</u>**, Zhiwei Shang, Chenxi Liu.
 ***<font color = "#224B8D">35th IEEE Intelligent Vehicles Symposium (IV 2024)</font>***
 
 <span class='anchor' id='edu'></span>
+
 # 👩‍🎓 Educations
 - *Sep. 2022 - Jul. 2024*<br />
 MPhil(Master of Philosophy), Intelligent Transportation Thrust, System Hub<br />
@@ -48,6 +52,7 @@ Bachelor's Degree, Robotics Engineering, Department of Mechanical and Energy Eng
 Southern University of Science and Technology.<br />
 
 <span class='anchor' id='research'></span>
+
 # 👩‍💻 Research Experience
 - **Shang Hai AI laboratory (Remote Research)** <br />
 Feb. 2024 - present<br />
@@ -73,6 +78,7 @@ Supervised by [Prof. Lili Wang](https://www.sustech.edu.cn/en/faculties/wanglili
 Field research, literature review, and geographic information visualization on Shenzhen's cultural landscape development.<br />
 
 <span class='anchor' id='intern'></span>
+
 # 👔 Internships
 - **Gongzhiyi Technology Co., Ltd., Shenzhen** <br />
 Jun.2022 - Aug. 2022<br />
