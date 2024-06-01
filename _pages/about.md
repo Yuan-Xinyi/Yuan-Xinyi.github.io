@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='me'></span>
 
 🙌Hi! I'm Xinyi Yuan, currently pursuing my MPhil at [Intelligent Transportation (INTR) Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/) in the [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou campus)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/). I earned my Bachelor's in [Robotics Engineering](https://mee.sustech.edu.cn/) from [Southern University of Science and Technology](https://www.sustech.edu.cn/), exploring human-robot interaction strategies for upper-limb rehabilitation in [Brain-Robot Rehabilitation Technology Lab](https://zhangmmlab.com/). Currently, I'm remotely engaged in fascinating legged robot research at the [Shang Hai AI laboratory](https://www.shlab.org.cn/) supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/).
 
