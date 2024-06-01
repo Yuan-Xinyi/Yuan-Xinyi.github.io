@@ -7,16 +7,13 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#-pub"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#-edu"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Research Experience"
+    url: "/#-research"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#-intern"

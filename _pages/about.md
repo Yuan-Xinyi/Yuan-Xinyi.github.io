@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-🙌Hi! I'm Xinyi Yuan, currently pursuing my MPhil at [Intelligent Transportation (INTR) Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/) in the [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou campus)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/). I earned my Bachelor's in [Robotics Engineering](https://mee.sustech.edu.cn/) from [Southern University of Science and Technology](https://www.sustech.edu.cn/). Currently, I'm engaged in fascinating research at the [Shang Hai AI laboratory](https://www.shlab.org.cn/) remotely supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/).
+🙌Hi! I'm Xinyi Yuan, currently pursuing my MPhil at [Intelligent Transportation (INTR) Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/) in the [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou campus)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/). I earned my Bachelor's in [Robotics Engineering](https://mee.sustech.edu.cn/) from [Southern University of Science and Technology](https://www.sustech.edu.cn/), exploring human-robot interaction strategies for upper-limb rehabilitation in [Brain-Robot Rehabilitation Technology Lab](https://zhangmmlab.com/). Currently, I'm remotely engaged in fascinating legged robot research at the [Shang Hai AI laboratory](https://www.shlab.org.cn/) supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/).
 
-I am particularly interest in interdisciplinary research. Besides engineering, I am working hard to become a Chartered Financial Analyst (CFA) charterholder. I also enjoy exploring different cities and trying out the food.
+Besides engineering, I believe that finance is another perspective for understanding what is happening in the world. So, I am working hard to become a [Chartered Financial Analyst (CFA)](https://en.wikipedia.org/wiki/Chartered_Financial_Analyst) charterholder (Progress: level 2 candidate this year). I also enjoy exploring different cities and trying out the food.
 
 I'm pretty interested in robotics, but still new to it, and you're more than welcome to write me an email to connect (or make friends)! Let's explore the exciting world together! 🌌
 
@@ -29,7 +29,7 @@ I'm pretty interested in robotics, but still new to it, and you're more than wel
 - *2024.03*: &nbsp;🎉 Our paper is accepted by the 35th IEEE Intelligent Vehicles Symposiumk (IV 2024).
 
 <span class='anchor' id='pub'></span>
-# 📝k Publications 
+# 📝Publications 
 \* Co-first author, ✉️ Corresponding author.
 - [**AggFollower: Aggressiveness Informed Car-Following Modeling.**](https://ieeexplore.ieee.org/abstract/document/10490250)<br />
 Xianda Chen, **<u>Xinyi Yuan</u>**, Meixin Zhu✉️, Xinhu Zheng, Shaojie Shen, Xuesong Wang, Yinhai Wang, Fei-Yue Wang<br />
@@ -41,13 +41,13 @@ Meixin Zhu✉️, Di Chen, **<u>Xinyi Yuan</u>**, Zhiwei Shang, Chenxi Liu.
 <span class='anchor' id='edu'></span>
 # 👩‍🎓 Educations
 - *Sep. 2022 - Jul. 2024*<br />
-Mphil(Master of Philosophy), Intelligent Transportation Thrust, System Hub<br />
+MPhil(Master of Philosophy), Intelligent Transportation Thrust, System Hub<br />
 Hong Kong University of Science and Technology (Guangzhou campus). <br />
 - *Sep. 2018 - Jun. 2022*<br />
 Bachelor's Degree, Robotics Engineering, Department of Mechanical and Energy Engineering<br />
 Southern University of Science and Technology.<br />
 
-
+<span class='anchor' id='research'></span>
 # 👩‍💻 Research Experience
 - **Shang Hai AI laboratory (Remote Research)** <br />
 Feb. 2024 - present<br />
@@ -65,14 +65,14 @@ Main approaches: embed aggressiveness tokens into Physics-Informed LSTM architec
 Sep. 2020 - Jun. 2022<br />
 Supervised by [Prof. Mingming Zhang](https://zhangmmlab.com/)<br />
 Motivation: utilize online metabolic cost estimation to build a human-in-the-loop rehabilitation strategy.<br />
-Main approaches: use multimodal physiological signals to estimate metabolism by multiple linear regression, design interaction strategies.<br />
+Main approaches: use multimodal physiological signals to estimate metabolism by multiple linear regression, and design interaction strategies.<br />
 
 - **Shenzhen Subway WebGIS Qualitative and Quantitative Hybrid Research** <br />
 Sep. 2021 - Aug. 2022<br />
 Supervised by [Prof. Lili Wang](https://www.sustech.edu.cn/en/faculties/wanglili.html)<br />
 Field research, literature review, and geographic information visualization on Shenzhen's cultural landscape development.<br />
 
-
+<span class='anchor' id='intern'></span>
 # 👔 Internships
 - **Gongzhiyi Technology Co., Ltd., Shenzhen** <br />
 Jun.2022 - Aug. 2022<br />
