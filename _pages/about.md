@@ -27,6 +27,7 @@ I'm pretty interested in robotics, but still new to it, and you're more than wel
 
 # ✨ News
 - *2024.10*: &nbsp;📌 I joined Harada Lab in Osaka University as a research student. 
+- *2024.10*: &nbsp;🎉 Please view our new work on diffusion-based locomotion policy on [project website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)!
 - *2024.06*: &nbsp;📅 My MPhil graduate examination will be arranged on 2nd, July!
 - *2024.04*: &nbsp;🎉 Our paper is accepted by the IEEE Transactions on Intelligent Vehicles.
 - *2024.03*: &nbsp;🎉 Our paper is accepted by the 35th IEEE Intelligent Vehicles Symposiumk (IV 2024).
