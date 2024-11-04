@@ -36,13 +36,15 @@ I'm pretty interested in robotics, but still new to it, and you're more than wel
 # 📝Publications 
 \* Co-first author, ✉️ Corresponding author.
 - [**Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control**](https://arxiv.org/abs/2410.13586)<br />
-**<u>Xinyi Yuan</u>**\*, Zhiwei Shang\*, Zifan Wang, Chenkai Wang, Zhao Shan, Zhenchao Qi, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li.
+**<u>Xinyi Yuan</u>**\*, Zhiwei Shang\*, Zifan Wang, Chenkai Wang, Zhao Shan, Zhenchao Qi, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li. <br />
 ***<font color = "#224B8D">arXiv preprint arXiv:2410.13586</font>***
-- [**Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**] Zhiwei Shang\*, **<u>Xinyi Yuan</u>**\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen.
+- ***<font color = "#224B8D">Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  <br />
+Zhiwei Shang\*, **<u>Xinyi Yuan</u>**\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen.  <br />
+***<font color = "#224B8D">Preprint. (Submitted to IEEE Transactions on Automation Science and Engineering)</font>***
 - [**AggFollower: Aggressiveness Informed Car-Following Modeling.**](https://ieeexplore.ieee.org/abstract/document/10490250)<br />
 Xianda Chen, **<u>Xinyi Yuan</u>**, Meixin Zhu✉️, Xinhu Zheng, Shaojie Shen, Xuesong Wang, Yinhai Wang, Fei-Yue Wang.<br />
 ***<font color = "#224B8D">IEEE Transactions on Intelligent Vehicles (IF=8.2, JCR Q1)</font>***
-- **Learning Realistic and Reactive Traffic Agents.**  <br />
+- ***<font color = "#224B8D">Learning Realistic and Reactive Traffic Agents.**  <br />
 Meixin Zhu✉️, Di Chen, **<u>Xinyi Yuan</u>**, Zhiwei Shang, Chenxi Liu.  
 ***<font color = "#224B8D">35th IEEE Intelligent Vehicles Symposium (IV 2024)</font>***
 
