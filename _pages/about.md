@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='me'></span>
 
-🙌Hi! I'm Xinyi Yuan, currently pursuing my MPhil at [Intelligent Transportation (INTR) Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/) in the [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou campus)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/). I earned my Bachelor's in [Robotics Engineering](https://mee.sustech.edu.cn/) from [Southern University of Science and Technology](https://www.sustech.edu.cn/), exploring human-robot interaction strategies for upper-limb rehabilitation in [Brain-Robot Rehabilitation Technology Lab](https://zhangmmlab.com/). Currently, I'm remotely engaged in fascinating legged robot research at the [Shang Hai AI laboratory](https://www.shlab.org.cn/) supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/).
+🙌Hi! I'm Xinyi Yuan, currently as a research student in [Harada Lab](https://www.roboticmanipulation.org/), Osaka University, supervised by [Prof. Weiwei Wan](https://wanweiwei07.github.io/). Previously, I got my MPhil degree at [Intelligent Transportation (INTR) Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/) in [Hong Kong University of Science and Technology (Guangzhou campus)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/). I earned my Bachelor's in [Robotics Engineering](https://mee.sustech.edu.cn/) from [Southern University of Science and Technology](https://www.sustech.edu.cn/), exploring human-robot interaction strategies for upper-limb rehabilitation in [Brain-Robot Rehabilitation Technology Lab](https://zhangmmlab.com/). From Feb. 2024 to Sep. 2024, I remotely engaged in fascinating legged robot research at the [Shang Hai AI laboratory](https://www.shlab.org.cn/) supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/).
 
 Besides engineering, I believe that finance is another perspective for understanding what is happening in the world. So, I am working hard to become a [Chartered Financial Analyst (CFA)](https://en.wikipedia.org/wiki/Chartered_Financial_Analyst) charterholder (Progress: level 2 candidate this year). I also enjoy exploring different cities and trying out the food.
 
@@ -26,6 +26,7 @@ I'm pretty interested in robotics, but still new to it, and you're more than wel
 <span class='anchor' id='news'></span>
 
 # ✨ News
+- *2024.10*: &nbsp;📌 I joined Harada Lab in Osaka University as a research student. 
 - *2024.06*: &nbsp;📅 My MPhil graduate examination will be arranged on 2nd, July!
 - *2024.04*: &nbsp;🎉 Our paper is accepted by the IEEE Transactions on Intelligent Vehicles.
 - *2024.03*: &nbsp;🎉 Our paper is accepted by the 35th IEEE Intelligent Vehicles Symposiumk (IV 2024).
@@ -34,8 +35,12 @@ I'm pretty interested in robotics, but still new to it, and you're more than wel
 
 # 📝Publications 
 \* Co-first author, ✉️ Corresponding author.
+- [**Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control**](https://arxiv.org/abs/2410.13586)<br />
+**<u>Xinyi Yuan</u>**\*, Zhiwei Shang\*, Zifan Wang, Chenkai Wang, Zhao Shan, Zhenchao Qi, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li.
+***<font color = "#224B8D">arXiv preprint arXiv:2410.13586</font>***
+- [**Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**] Zhiwei Shang\*, **<u>Xinyi Yuan</u>**\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen.
 - [**AggFollower: Aggressiveness Informed Car-Following Modeling.**](https://ieeexplore.ieee.org/abstract/document/10490250)<br />
-Xianda Chen, **<u>Xinyi Yuan</u>**, Meixin Zhu✉️, Xinhu Zheng, Shaojie Shen, Xuesong Wang, Yinhai Wang, Fei-Yue Wang<br />
+Xianda Chen, **<u>Xinyi Yuan</u>**, Meixin Zhu✉️, Xinhu Zheng, Shaojie Shen, Xuesong Wang, Yinhai Wang, Fei-Yue Wang.<br />
 ***<font color = "#224B8D">IEEE Transactions on Intelligent Vehicles (IF=8.2, JCR Q1)</font>***
 - **Learning Realistic and Reactive Traffic Agents.**  <br />
 Meixin Zhu✉️, Di Chen, **<u>Xinyi Yuan</u>**, Zhiwei Shang, Chenxi Liu.  
