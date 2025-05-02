@@ -22,8 +22,8 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 # ✨ News
-- *2025.4*: &nbsp;📌 I started my Ph.D. in Harada Lab at Osaka University. 
-- *2025.3*: &nbsp;🎉 We’ve released a new paper revisiting inverse kinematics with a [refined numerical solver](https://arxiv.org/abs/2503.22234).
+- *2025.04*: &nbsp;📌 I started my Ph.D. in Harada Lab at Osaka University. 
+- *2025.03*: &nbsp;🎉 We’ve released a new paper revisiting inverse kinematics with a [refined numerical solver](https://arxiv.org/abs/2503.22234).
 - *2024.10*: &nbsp;📌 I joined Harada Lab at Osaka University as a research student. 
 - *2024.10*: &nbsp;🎉 Please view our new work on diffusion-based locomotion policy on [project website](https://shangjaven.github.io/preference-aligned-diffusion-legged/).
 - *2024.06*: &nbsp;📅 My MPhil graduate examination will be arranged on 2nd, July.
@@ -46,7 +46,7 @@ Zhiwei Shang\*, **<u>Xinyi Yuan</u>**\*, Wenjun Huang, Meixin Zhu✉️, Chenjia
 - [**AggFollower: Aggressiveness Informed Car-Following Modeling.**](https://ieeexplore.ieee.org/abstract/document/10490250)<br />
 Xianda Chen, **<u>Xinyi Yuan</u>**, Meixin Zhu✉️, Xinhu Zheng, Shaojie Shen, Xuesong Wang, Yinhai Wang, Fei-Yue Wang.<br />
 ***<font color = "#224B8D">IEEE Transactions on Intelligent Vehicles (IF=14, JCR Q1)</font>***
-- **Learning Realistic and Reactive Traffic Agents.**  <br />
+- [**Learning Realistic and Reactive Traffic Agents.**](https://ieeexplore.ieee.org/abstract/document/10588807)  <br />
 Meixin Zhu✉️, Di Chen, **<u>Xinyi Yuan</u>**, Zhiwei Shang, Chenxi Liu.  
 ***<font color = "#224B8D">35th IEEE Intelligent Vehicles Symposium (IV 2024)</font>***
 
