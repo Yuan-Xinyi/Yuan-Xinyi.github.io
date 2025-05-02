@@ -40,7 +40,7 @@ redirect_from:
 - [**Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control**](https://arxiv.org/abs/2410.13586)<br />
 **<u>Xinyi Yuan</u>**\*, Zhiwei Shang\*, Zifan Wang, Chenkai Wang, Zhao Shan, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li. <br />
 ***<font color = "#224B8D">arXiv preprint arXiv:2410.13586</font>***
-- **Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  <br />
+- [**Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**](https://ieeexplore.ieee.org/abstract/document/10588807)<br />
 Zhiwei Shang\*, **<u>Xinyi Yuan</u>**\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen.  <br />
 ***<font color = "#224B8D">Preprint. (Submitted to IEEE Transactions on Automation Science and Engineering)</font>***
 - [**AggFollower: Aggressiveness Informed Car-Following Modeling.**](https://ieeexplore.ieee.org/abstract/document/10490250)<br />
