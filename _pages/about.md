@@ -36,7 +36,7 @@ redirect_from:
 # 📝Publications 
 \* Co-first author, ✉️ Corresponding author.
 - [**IKSel: Selecting Good Seed Joint Values for Fast Numerical Inverse Kinematics Iterations**](https://arxiv.org/abs/2503.22234)<br />
-**<u>Xinyi Yuan</u>**\*, Weiwei Wan✉️, Kensuke Harada.<br />
+**<u>Xinyi Yuan</u>**, Weiwei Wan✉️, Kensuke Harada.<br />
 ***<font color = "#224B8D">Preprint. (Submitted to IEEE Transactions on Automation Science and Engineering)</font>***
 - [**Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control**](https://arxiv.org/abs/2410.13586)<br />
 **<u>Xinyi Yuan</u>**\*, Zhiwei Shang\*, Zifan Wang, Chenkai Wang, Zhao Shan, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li. <br />
