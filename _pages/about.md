@@ -22,6 +22,7 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 # ✨ News
+- *2025.07*: &nbsp;🎉 Our paper is accepted by the IROS 2025, see you in Hangzhou.
 - *2025.05*: &nbsp;📝 We’ve released a new paper on [Conservative Soft Actor-Critic algorithm](https://arxiv.org/abs/2505.03356). 
 - *2025.04*: &nbsp;📌 I started my Ph.D. in Harada Lab at Osaka University. 
 - *2025.03*: &nbsp;📝 We’ve released a new paper revisiting inverse kinematics with a [refined numerical solver](https://arxiv.org/abs/2503.22234).
@@ -39,7 +40,7 @@ redirect_from:
 **<u>Xinyi Yuan</u>**, Weiwei Wan✉️, Kensuke Harada.<br />
 ***<font color = "#224B8D">Preprint. (Submitted to IEEE Transactions on Automation Science and Engineering)</font>***
 - [**Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control**](https://arxiv.org/abs/2410.13586)<br />
-**<u>Xinyi Yuan</u>**\*, Zhiwei Shang\*, Zifan Wang, Chenkai Wang, Zhao Shan, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li. <br />
+**<u>Xinyi Yuan</u>**\*, [Zhiwei Shang](https://shangjaven.github.io/)\*, Zifan Wang, [Chenkai Wang](https://chenkai-wang.github.io/), Zhao Shan, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li. <br />
 ***<font color = "#224B8D">arXiv preprint arXiv:2410.13586</font>***
 - [**Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**](https://arxiv.org/abs/2505.03356)<br />
 **<u>Xinyi Yuan</u>**\*, Zhiwei Shang\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen.  <br />
