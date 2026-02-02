@@ -22,6 +22,7 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 # ✨ News
+- *2026.01*: &nbsp;🤖 I'm actively updating an [Embodied AI paper repository](https://github.com/Yuan-Xinyi/Embodied_AI_Paper_Reading).
 - *2026.01*: &nbsp;🎉 Our paper on [numerical IK solver](https://arxiv.org/pdf/2503.22234) is accepted by the IEEE Transactions on Automation Science and Engineering.
 - *2025.07*: &nbsp;🎉 Our paper on [legged robot locomotion policy](https://shangjaven.github.io/preference-aligned-diffusion-legged/) is accepted by the IROS 2025, see you in Hangzhou.
 - *2025.05*: &nbsp;📝 We’ve released a new paper on [Conservative Soft Actor-Critic algorithm](https://arxiv.org/abs/2505.03356). 
