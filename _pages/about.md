@@ -22,15 +22,13 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 # ✨ News
-- *2025.07*: &nbsp;🎉 Our paper is accepted by the IROS 2025, see you in Hangzhou.
+- *2026.01*: &nbsp;🎉 Our paper on [numerical IK solver](https://arxiv.org/pdf/2503.22234) is accepted by the IEEE Transactions on Automation Science and Engineering.
+- *2025.07*: &nbsp;🎉 Our paper on [legged robot locomotion policy](https://shangjaven.github.io/preference-aligned-diffusion-legged/) is accepted by the IROS 2025, see you in Hangzhou.
 - *2025.05*: &nbsp;📝 We’ve released a new paper on [Conservative Soft Actor-Critic algorithm](https://arxiv.org/abs/2505.03356). 
 - *2025.04*: &nbsp;📌 I started my Ph.D. in Harada Lab at Osaka University. 
-- *2025.03*: &nbsp;📝 We’ve released a new paper revisiting inverse kinematics with a [refined numerical solver](https://arxiv.org/abs/2503.22234).
-- *2024.10*: &nbsp;📌 I joined Harada Lab at Osaka University as a research student. 
-- *2024.10*: &nbsp;📝 Please view our new work on diffusion-based locomotion policy on [project website](https://shangjaven.github.io/preference-aligned-diffusion-legged/).
 - *2024.06*: &nbsp;📅 My MPhil graduate examination will be arranged on 2nd, July.
-- *2024.04*: &nbsp;🎉 Our paper is accepted by the IEEE Transactions on Intelligent Vehicles.
-- *2024.03*: &nbsp;🎉 Our paper is accepted by the 35th IEEE Intelligent Vehicles Symposiumk (IV 2024).
+- *2024.04*: &nbsp;🎉 Our paper is accepted by the IEEE Transactions on Intelligent Vehicles ([paper link](https://ieeexplore.ieee.org/abstract/document/10490250)).
+- *2024.03*: &nbsp;🎉 Our paper is accepted by the 35th IEEE Intelligent Vehicles Symposium ([paper link](https://ieeexplore.ieee.org/abstract/document/10588807)).
 
 <span class='anchor' id='pub'></span>
 
@@ -38,10 +36,10 @@ redirect_from:
 \* Co-first author, ✉️ Corresponding author.
 - [**IKSel: Selecting Good Seed Joint Values for Fast Numerical Inverse Kinematics Iterations**](https://arxiv.org/abs/2503.22234)<br />
 **<u>Xinyi Yuan</u>**, Weiwei Wan✉️, Kensuke Harada.<br />
-***<font color = "#224B8D">Preprint. (Submitted to IEEE Transactions on Automation Science and Engineering)</font>***
+***<font color = "#224B8D">IEEE Transactions on Automation Science and Engineering (IF=6.4, JCR Q1))</font>***
 - [**Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control**](https://arxiv.org/abs/2410.13586)<br />
 **<u>Xinyi Yuan</u>**\*, [Zhiwei Shang](https://shangjaven.github.io/)\*, Zifan Wang, [Chenkai Wang](https://chenkai-wang.github.io/), Zhao Shan, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li. <br />
-***<font color = "#224B8D">arXiv preprint arXiv:2410.13586</font>***
+***<font color = "#224B8D">IEEE/RSJ International Conference on Intelligent Robots and Systems (CCF-C)</font>***
 - [**Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**](https://arxiv.org/abs/2505.03356)<br />
 **<u>Xinyi Yuan</u>**\*, Zhiwei Shang\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen.  <br />
 ***<font color = "#224B8D">Preprint. (Submitted to IEEE Transactions on Automation Science and Engineering)</font>***
