@@ -22,8 +22,8 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 # ✨ News
-- *2026.04*: 🗂 I start to serve as the Student Representative for the IEEE RAS Technical Committee on Mobile Manipulation.
-- *2026.01*: 🗂 I'm actively updating a [Robotics AI paper reading list in 2026](https://github.com/Yuan-Xinyi/awesome-robotics-papers-2026).
+- *2026.04*: &nbsp;📌 I start to serve as the Student Representative for the IEEE RAS Technical Committee on Mobile Manipulation.
+- *2026.01*: &nbsp;📌 I'm actively updating a [Robotics AI paper reading list in 2026](https://github.com/Yuan-Xinyi/awesome-robotics-papers-2026).
 - *2026.01*: &nbsp;🎉 Our paper on [numerical IK solver](https://arxiv.org/pdf/2503.22234) is accepted by the IEEE Transactions on Automation Science and Engineering.
 - *2025.07*: &nbsp;🎉 Our paper on [legged robot locomotion policy](https://shangjaven.github.io/preference-aligned-diffusion-legged/) is accepted by the IROS 2025, see you in Hangzhou.
 - *2025.05*: &nbsp;📝 We’ve released a new paper on [Conservative Soft Actor-Critic algorithm](https://arxiv.org/abs/2505.03356). 
@@ -31,6 +31,14 @@ redirect_from:
 - *2024.06*: &nbsp;📅 My MPhil graduate examination will be arranged on 2nd, July.
 - *2024.04*: &nbsp;🎉 Our paper is accepted by the IEEE Transactions on Intelligent Vehicles ([paper link](https://ieeexplore.ieee.org/abstract/document/10490250)).
 - *2024.03*: &nbsp;🎉 Our paper is accepted by the 35th IEEE Intelligent Vehicles Symposium ([paper link](https://ieeexplore.ieee.org/abstract/document/10588807)).
+
+
+<span class='anchor' id='Services'></span>
+# 🌐 Services
+- Student Representative, IEEE RAS TC on Mobile Manipulation, 2026.04 – Present
+- Journal Reviewer: TRO, IJRR, TASE, RA-L
+- Conference Reviewer: IROS 2026, ICRA 2025, IROS 2025
+
 
 <span class='anchor' id='pub'></span>
 
