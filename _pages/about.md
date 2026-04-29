@@ -36,13 +36,13 @@ redirect_from:
 <span class='anchor' id='Services'></span>
 # 🌐 Services
 - Student Representative, IEEE RAS TC on Mobile Manipulation, 2026.04 – Present
-- Journal Reviewer: TRO, IJRR, TASE, RA-L
+- Journal Reviewer: IEEE Transactions on Robotics; The International Journal of Robotics Research; IEEE Transactions on Automation Science and Engineering; IEEE Robotics and Automation Letters.
 - Conference Reviewer: IROS 2026, ICRA 2025, IROS 2025
 
 
 <span class='anchor' id='pub'></span>
 
-# 📝Publications 
+# 📝 Publications 
 \* Co-first author, ✉️ Corresponding author.
 - [**IKSel: Selecting Good Seed Joint Values for Fast Numerical Inverse Kinematics Iterations**](https://arxiv.org/abs/2503.22234)<br />
 **<u>Xinyi Yuan</u>**, Weiwei Wan✉️, Kensuke Harada.<br />
