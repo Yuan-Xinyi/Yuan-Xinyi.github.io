@@ -22,6 +22,7 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 # ✨ News
+- *2026.06*: &nbsp;📝 We’ve released a new paper on [Extreme Motion Gneration](https://yuan-xinyi.github.io/extreme-motion-generation/).
 - *2026.04*: &nbsp;📌 I start to serve as the Student Representative for the IEEE RAS Technical Committee on Mobile Manipulation.
 - *2026.01*: &nbsp;📌 I'm actively updating a [Robotics AI paper reading list in 2026](https://github.com/Yuan-Xinyi/awesome-robotics-papers-2026).
 - *2026.01*: &nbsp;🎉 Our paper on [numerical IK solver](https://arxiv.org/pdf/2503.22234) is accepted by the IEEE Transactions on Automation Science and Engineering.
@@ -44,21 +45,25 @@ redirect_from:
 
 # 📝 Publications 
 \* Co-first author, ✉️ Corresponding author.
-- [**IKSel: Selecting Good Seed Joint Values for Fast Numerical Inverse Kinematics Iterations**](https://arxiv.org/abs/2503.22234)<br />
+- [**Extreme Motion Generation via Hybrid Null-Space Control for Straight-Line Path Following**](https://arxiv.org/abs/2606.03390)<br />
 **<u>Xinyi Yuan</u>**, Weiwei Wan✉️, Kensuke Harada.<br />
-***<font color = "#224B8D">IEEE Transactions on Automation Science and Engineering (IF=6.4, JCR Q1))</font>***
-- [**Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control**](https://arxiv.org/abs/2410.13586)<br />
+***Preprint. (Submitted to International Symposium of Robotics Research (ISRR), 2026)***
+- [**IKSel: Selecting Good Seed Joint Values for Fast Numerical Inverse Kinematics Iterations**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11367777)<br />
+**<u>Xinyi Yuan</u>**, Weiwei Wan✉️, Kensuke Harada.<br />
+***IEEE Transactions on Automation Science and Engineering (IF=6.4, JCR Q1)***
+This algorithm has been integrated as the default IK solver for the [one robotic system](https://github.com/wanweiwei07/one).
+- [**Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11246933)<br />
 **<u>Xinyi Yuan</u>**\*, [Zhiwei Shang](https://shangjaven.github.io/)\*, Zifan Wang, [Chenkai Wang](https://chenkai-wang.github.io/), Zhao Shan, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li. <br />
-***<font color = "#224B8D">IEEE/RSJ International Conference on Intelligent Robots and Systems (CCF-C)</font>***
+***IEEE/RSJ International Conference on Intelligent Robots and Systems (CCF-C)***
 - [**Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**](https://arxiv.org/abs/2505.03356)<br />
 **<u>Xinyi Yuan</u>**\*, Zhiwei Shang\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen.  <br />
-***<font color = "#224B8D">Preprint. (Submitted to IEEE Transactions on Automation Science and Engineering)</font>***
+***Preprint. (Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems, 2026)***
 - [**AggFollower: Aggressiveness Informed Car-Following Modeling.**](https://ieeexplore.ieee.org/abstract/document/10490250)<br />
 Xianda Chen, **<u>Xinyi Yuan</u>**, Meixin Zhu✉️, Xinhu Zheng, Shaojie Shen, Xuesong Wang, Yinhai Wang, Fei-Yue Wang.<br />
-***<font color = "#224B8D">IEEE Transactions on Intelligent Vehicles (IF=14, JCR Q1)</font>***
+***IEEE Transactions on Intelligent Vehicles (IF=14, JCR Q1)***
 - [**Learning Realistic and Reactive Traffic Agents.**](https://ieeexplore.ieee.org/abstract/document/10588807)  <br />
 Meixin Zhu✉️, Di Chen, **<u>Xinyi Yuan</u>**, Zhiwei Shang, Chenxi Liu.  
-***<font color = "#224B8D">35th IEEE Intelligent Vehicles Symposium (IV 2024)</font>***
+***35th IEEE Intelligent Vehicles Symposium (IV 2024)***
 
 <span class='anchor' id='edu'></span>
 
