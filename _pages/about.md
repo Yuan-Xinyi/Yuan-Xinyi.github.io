@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='me'></span>
 
-🙌Hi! I'm Xinyi Yuan, currently a Ph.D. candidate in [Harada Lab](https://www.roboticmanipulation.org/), Osaka University, supervised by [Prof. Weiwei Wan](https://wanweiwei07.github.io/). Previously, I got my MPhil degree at the Intelligent Transportation (INTR) Thrust in the Hong Kong University of Science and Technology (Guangzhou campus), supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/). I earned my Bachelor's in Robotics Engineering from Southern University of Science and Technology, exploring human-robot interaction strategies for upper-limb rehabilitation in [Brain-Robot Rehabilitation Technology Lab](https://zhangmmlab.com/). From Feb. 2024 to Sep. 2024, I remotely engaged in fascinating legged robot research at the [Shanghai AI laboratory](https://www.shlab.org.cn/) supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/).
+🙌Hi! I'm Xinyi Yuan, currently a Ph.D. candidate in [Harada Lab](https://www.roboticmanipulation.org/), Osaka University, supervised by [Prof. Weiwei Wan](https://wanweiwei07.github.io/). Previously, I earned my MPhil degree at the Intelligent Transportation (INTR) Thrust in the Hong Kong University of Science and Technology (Guangzhou campus), supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/). I earned my Bachelor's in Robotics Engineering from Southern University of Science and Technology, exploring human-robot interaction strategies for upper-limb rehabilitation in [Brain-Robot Rehabilitation Technology Lab](https://zhangmmlab.com/). From Feb. 2024 to Sep. 2024, I remotely engaged in fascinating legged robot research at the [Shanghai AI Laboratory](https://www.shlab.org.cn/) supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/).
 
 <span class='anchor' id='news'></span>
 
 # ✨ News
-- *2026.06*: &nbsp;📝 We've released a new paper, [Extreme Motion Generation](https://yuan-xinyi.github.io/extreme-motion-generation/), on pushing a fixed-base manipulator to its kinematic limit along a path.
-- *2026.04*: &nbsp;📌 I start to serve as the Student Representative for the IEEE RAS Technical Committee on Mobile Manipulation.
+- *2026.06*: &nbsp;📝 We've released a new paper, [Extreme Motion Generation](https://yuan-xinyi.github.io/extreme-motion-generation/), on pushing a fixed-base manipulator to its kinematic limit.
+- *2026.04*: &nbsp;📌 I started serving as the Student Representative for the IEEE RAS Technical Committee on Mobile Manipulation.
 - *2026.01*: &nbsp;📌 I'm actively updating a [Robotics AI paper reading list in 2026](https://github.com/Yuan-Xinyi/awesome-robotics-papers-2026).
 - *2026.01*: &nbsp;🎉 Our paper on [numerical IK solver](https://arxiv.org/pdf/2503.22234) is accepted by the IEEE Transactions on Automation Science and Engineering.
 - *2025.07*: &nbsp;🎉 Our paper on [legged robot locomotion policy](https://shangjaven.github.io/preference-aligned-diffusion-legged/) is accepted by the IROS 2025, see you in Hangzhou.
-- *2025.05*: &nbsp;📝 We’ve released a new paper on [Conservative Soft Actor-Critic algorithm](https://arxiv.org/abs/2505.03356). 
+- *2025.05*: &nbsp;📝 We've released a new paper on [Conservative Soft Actor-Critic algorithm](https://arxiv.org/abs/2505.03356). 
 - *2025.04*: &nbsp;📌 I started my Ph.D. in Harada Lab at Osaka University. 
 - *2024.06*: &nbsp;📅 My MPhil graduate examination will be arranged on 2nd, July.
 - *2024.04*: &nbsp;🎉 Our paper is accepted by the IEEE Transactions on Intelligent Vehicles ([paper link](https://ieeexplore.ieee.org/abstract/document/10490250)).
@@ -51,7 +51,7 @@ redirect_from:
 - [**IKSel: Selecting Good Seed Joint Values for Fast Numerical Inverse Kinematics Iterations**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11367777)<br />
 **<u>Xinyi Yuan</u>**, Weiwei Wan✉️, Kensuke Harada.<br />
 ***IEEE Transactions on Automation Science and Engineering (IF=6.4, JCR Q1)***<br />
-This algorithm has been integrated as the default IK solver for the [one robotic system](https://github.com/wanweiwei07/one).
+This algorithm has been integrated as the default IK solver for the [***One robotic system***](https://github.com/wanweiwei07/one).
 - [**Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11246933)<br />
 **<u>Xinyi Yuan</u>**\*, [Zhiwei Shang](https://shangjaven.github.io/)\*, Zifan Wang, [Chenkai Wang](https://chenkai-wang.github.io/), Zhao Shan, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li. <br />
 ***IEEE/RSJ International Conference on Intelligent Robots and Systems (CCF-C)***
@@ -67,9 +67,9 @@ Meixin Zhu✉️, Di Chen, **<u>Xinyi Yuan</u>**, Zhiwei Shang, Chenxi Liu.
 
 <span class='anchor' id='edu'></span>
 
-# 👩‍🎓 Educations
+# 👩‍🎓 Education
 - *Sep. 2022 - Jul. 2024*<br />
-MPhil(Master of Philosophy), Intelligent Transportation Thrust, System Hub<br />
+MPhil (Master of Philosophy), Intelligent Transportation Thrust, System Hub<br />
 Hong Kong University of Science and Technology (Guangzhou campus). <br />
 - *Sep. 2018 - Jun. 2022*<br />
 Bachelor's Degree, Robotics Engineering, Department of Mechanical and Energy Engineering<br />
@@ -78,18 +78,18 @@ Southern University of Science and Technology.<br />
 <span class='anchor' id='research'></span>
 
 # 👩‍💻 Research Experience
-- **Harada lab (Research Student)** <br />
-Oct. 2024 - Apr. 2025<br />
+- **Harada Lab (Research Student)** <br />
+Oct. 2024 - Present<br />
 Supervised by [Prof. Weiwei Wan](https://wanweiwei07.github.io/)<br />
 
-- **Shang Hai AI laboratory (Remote Research)** <br />
-Feb. 2024 - present<br />
+- **Shanghai AI Laboratory (Remote Research)** <br />
+Feb. 2024 - Sep. 2024<br />
 Supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/)<br />
 Motivation: Improve the performance of the diffusion policy on high-frequency locomotion policy on legged robots.<br />
 Main approaches: Propose the two-stage learning framework that combines the offline diffusion planner with online preference alignment.<br />
 
-- **Drive AI laboratory, HKUST (GZ)** <br />
-Dec. 2022 - present<br />
+- **Drive AI Laboratory, HKUST (GZ)** <br />
+Dec. 2022 - Jul. 2024<br />
 Supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/)<br />
 Motivation: Incorporate driving aggressiveness into data-driven models, and realize safe and human-like driving behavior modeling.<br />
 Main approaches: Embed aggressiveness tokens into Physics-Informed LSTM architecture, test on the Lyft and HighD datasets.<br />
@@ -109,7 +109,7 @@ Field research, literature review, and geographic information visualization on S
 
 # 👔 Internships
 - **Gongzhiyi Technology Co., Ltd., Shenzhen** <br />
-Jun.2022 - Aug. 2022<br />
+Jun. 2022 - Aug. 2022<br />
 User research, user education, and product design for the Series A+ funded blueprint management software "Evercraft."<br />
 - **Guoxin Hongsheng Equity Investment Fund Management Co., Ltd., Shenzhen** <br />
 Mar. 2021 - Jun. 2021<br />
