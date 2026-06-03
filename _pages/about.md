@@ -22,7 +22,7 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 # ✨ News
-- *2026.06*: &nbsp;📝 We’ve released a new paper on [Extreme Motion Gneration](https://yuan-xinyi.github.io/extreme-motion-generation/).
+- *2026.06*: &nbsp;📝 We've released a new paper, [Extreme Motion Generation](https://yuan-xinyi.github.io/extreme-motion-generation/), on pushing a fixed-base manipulator to its kinematic limit along a path.
 - *2026.04*: &nbsp;📌 I start to serve as the Student Representative for the IEEE RAS Technical Committee on Mobile Manipulation.
 - *2026.01*: &nbsp;📌 I'm actively updating a [Robotics AI paper reading list in 2026](https://github.com/Yuan-Xinyi/awesome-robotics-papers-2026).
 - *2026.01*: &nbsp;🎉 Our paper on [numerical IK solver](https://arxiv.org/pdf/2503.22234) is accepted by the IEEE Transactions on Automation Science and Engineering.
@@ -50,7 +50,7 @@ redirect_from:
 ***Preprint. (Submitted to International Symposium of Robotics Research (ISRR), 2026)***
 - [**IKSel: Selecting Good Seed Joint Values for Fast Numerical Inverse Kinematics Iterations**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11367777)<br />
 **<u>Xinyi Yuan</u>**, Weiwei Wan✉️, Kensuke Harada.<br />
-***IEEE Transactions on Automation Science and Engineering (IF=6.4, JCR Q1)***
+***IEEE Transactions on Automation Science and Engineering (IF=6.4, JCR Q1)***<br />
 This algorithm has been integrated as the default IK solver for the [one robotic system](https://github.com/wanweiwei07/one).
 - [**Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11246933)<br />
 **<u>Xinyi Yuan</u>**\*, [Zhiwei Shang](https://shangjaven.github.io/)\*, Zifan Wang, [Chenkai Wang](https://chenkai-wang.github.io/), Zhao Shan, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li. <br />
